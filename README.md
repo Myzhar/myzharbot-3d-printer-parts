@@ -7,14 +7,14 @@ The full 3D cad design is freely available as an [OnShape project](https://cad.o
 ## 3D Printer settings
 Note: Where not specified the parts are printed using PLA+ filaments (SUNLU or eSun)
 
-### PLA+ 
-- Standard Infill: 30% Cubic
+### PLA+/PETG
+- Standard Infill: 30% Gyroid
 - Perimeters: 2
 - Top: 3
 - Bottom: 3
 
 ### TPU
-- Infill 25% Cubic
+- Infill 30% Gyroid
 - Perimeters: 2
 - Top: 3
 - Bottom: 3
